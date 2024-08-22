@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "J.K. Rowling",
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "price": 0.00,
+        "category": "Fantasy",
+        "image": "https://m.media-amazon.com/images/I/61Ddo7TSTCL._SX342_SY445_.jpg"
+    },
+    {
+        "id": 2,
+        "name": "George R.R. Martin",
+        "title": "A Game of Thrones",
+        "price": 24.99,
+        "category": "Fantasy",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/91dSMhdIzTL.jpg"
+    },
+    {
+        "id": 3,
+        "name": "J.R.R. Tolkien",
+        "title": "The Lord of the Rings",
+        "price": 29.99,
+        "category": "Fantasy",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/91b0C2YNSrL.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Harper Lee",
+        "title": "To Kill a Mockingbird",
+        "price": 14.99,
+        "category": "Classic",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81OdwZ9qQUL.jpg"
+    },
+    {
+        "id": 5,
+        "name": "F. Scott Fitzgerald",
+        "title": "The Great Gatsby",
+        "price": 10.99,
+        "category": "Classic",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81af+MCATTL.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Jane Austen",
+        "title": "Pride and Prejudice",
+        "price": 12.99,
+        "category": "Romance",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81z4eR+NneL.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Markus Zusak",
+        "title": "The Book Thief",
+        "price": 16.99,
+        "category": "Historical Fiction",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81lpp1NBl6L.jpg"
+    },
+    {
+        "id": 8,
+        "name": "J.D. Salinger",
+        "title": "The Catcher in the Rye",
+        "price": 13.99,
+        "category": "Classic",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81OthjkJBuL.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Khaled Hosseini",
+        "title": "The Kite Runner",
+        "price": 18.99,
+        "category": "Historical Fiction",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/91cXkYQvNDL.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Suzanne Collins",
+        "title": "The Hunger Games",
+        "price": 15.99,
+        "category": "Science Fiction",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/91FDx6e5FyL.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Mary Shelley",
+        "title": "Frankenstein",
+        "price": 0.00,
+        "category": "Horror",
+        "image": "https://m.media-amazon.com/images/I/41z7ukJFnSL._SY445_SX342_.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Herman Melville",
+        "title": "Moby Dick",
+        "price": 0.00,
+        "category": "Classic",
+        "image": "https://res.cloudinary.com/bloomsbury-atlas/image/upload/w_148,c_scale/jackets/9781847496447.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Charles Dickens",
+        "title": "A Tale of Two Cities",
+        "price": 0.00,
+        "category": "Classic",
+        "image": "https://m.media-amazon.com/images/I/51KnUfnbdQL._SY445_SX342_.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Jane Austen",
+        "title": "Emma",
+        "price": 0.00,
+        "category": "Romance",
+        "image": "https://m.media-amazon.com/images/I/71L5tSXRGlL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Louisa May Alcott",
+        "title": "Little Women",
+        "price": 0.00,
+        "category": "Classic",
+        "image": "https://m.media-amazon.com/images/I/714j9RdFgbL._AC_UY327_FMwebp_QL65_.jpg"
+    }
+]
