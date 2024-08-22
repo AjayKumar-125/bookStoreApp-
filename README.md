@@ -1,4 +1,4 @@
-BookStoreApp
+
 BookStoreApp is a web application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). The application allows users to browse, search, and purchase books. It includes features like user authentication, a shopping cart, and an admin panel to manage books and orders.
 Features:
 -User Authentication: Secure login and registration for users.
@@ -11,7 +11,7 @@ Make sure you have the following installed on your system:
 Node.js
 MongoDB
 Clone the Repository
-git clone https://github.com/yourusername/BookStoreApp.git
+git clone https://github.com/AjayKumar-125/BookStoreApp.git
 cd BookStoreApp
 Install Dependencies
 For the backend:
